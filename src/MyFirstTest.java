@@ -6,7 +6,7 @@ public class MyFirstTest {
 
         //For windows
         //Driver path is required for selenium webdriver versions >3
-        System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\JetBrains\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 
         //initialize chrome driver instance
         WebDriver driver = new ChromeDriver();

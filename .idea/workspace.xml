@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66dca73b-2f31-4cf8-8238-83b58c589731" name="Default Changelist" comment="" />
+    <list default="true" id="66dca73b-2f31-4cf8-8238-83b58c589731" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFirstTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gyw2TsLRmYXowHg1MXFUMJytnK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -76,9 +84,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2596" y="238" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599364902561" />
-    <state x="2983" y="255" key="FileChooserDialogImpl" timestamp="1599100167254">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="1063" y="255" key="FileChooserDialogImpl" timestamp="1599595630765">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="1063" y="255" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599595630765" />
     <state x="2983" y="255" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599100167254" />
     <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1599591042520">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -124,9 +133,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2460" y="254" key="IDE.errors.dialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599404281444" />
-    <state x="2360" y="94" key="SettingsEditor" timestamp="1599100177993">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="491" y="94" key="SettingsEditor" timestamp="1599595712455">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="491" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599595712455" />
     <state x="2360" y="94" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599100177993" />
   </component>
 </project>
