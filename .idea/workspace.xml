@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66dca73b-2f31-4cf8-8238-83b58c589731" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pagina/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pagina/MenuLateral.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Selenium/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Selenium/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Selenium/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Selenium/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Selenium/Pagina.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Selenium/TesteMedium.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyFirstTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pagina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pagina/Pagina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteMedium.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +44,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jorge\Desktop\Selenium" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -98,28 +111,28 @@
     </state>
     <state x="1063" y="255" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599595630765" />
     <state x="2983" y="255" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599100167254" />
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1599680415165">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1599682077701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599680415165" />
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599682077701" />
     <state width="1877" height="277" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599408523144" />
     <state width="1877" height="277" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599404315865" />
-    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1599680415165">
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1599682077701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599680415165" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599682077701" />
     <state width="1877" height="277" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599408523143" />
     <state width="1877" height="277" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599404315865" />
-    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1599680415165">
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1599682077701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599680415165" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599682077701" />
     <state width="1877" height="277" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599408523143" />
     <state width="1877" height="277" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599404315865" />
-    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1599680415165">
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1599682077701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599680415165" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599682077701" />
     <state width="1877" height="277" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599408523143" />
     <state width="1877" height="277" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599404315865" />
     <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1599365854381">
