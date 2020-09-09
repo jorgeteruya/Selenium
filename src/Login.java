@@ -1,6 +1,5 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Login {
@@ -8,14 +7,16 @@ public class Login {
     WebDriver driver = new ChromeDriver();
 
     public void fazerLogin(){
-        WebElement search = driver.findElement(By.id("login-form:login"));
-        search.sendKeys("jteruya");
+        Pagina pg = new Pagina();
 
-        search.findElement(By.id("login-form:password1"));
-        search.sendKeys("sw123456");
+        //ATENÇÃO para abrir ERP de teste marque como False,
+        //caso contrario True irá para hanbiente de produção.
+        //pg.URL_teste(false);
 
-        search.findElement(By.className("ui-button-text ui-c"));
-        search.click();
+        driver.get("https://sws.sweda.com.br:8181/erp-mobox/");
+        driver.findElement(By.name("login-form:login")).sendKeys("jteruya");
+        driver.findElement(By.name("login-form:password1")).sendKeys("sw123456");
+        driver.findElement(By.name("login-form:entrar")).click();
 
     }
 
